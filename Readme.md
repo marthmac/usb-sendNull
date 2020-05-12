@@ -1,6 +1,10 @@
 USB Library for Node.JS
 ===============================
 
+NOTE: usb.js is modified to allow sends of null via the controlTransfer.  This is a minor change, but necessary for communicating with the DFU bootloader.
+
+
+
 [![Build Status](https://travis-ci.org/tessel/node-usb.svg?branch=master)](https://travis-ci.org/tessel/node-usb)
 
 Node.JS library for communicating with USB devices in JavaScript / CoffeeScript.
