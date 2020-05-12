@@ -2,7 +2,6 @@
   "_from": "usb-sendNull",
   "_id": "usb-sendNull",
   "_inBundle": false,
-  "_integrity": "sha512-23KYMjaWydACd8wgGKMQ4MNwFspAT6Xeim4/9Onqe5Rz/nMb4TM/WHL+qPT0KNFxzNKzAs63n1xQWGEtgaQ2uw==",
   "_location": "/usb-sendNull",
   "_phantomChildren": {},
   "_requested": {
@@ -19,10 +18,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/usb/-/usb-1.6.3.tgz",
-  "_shasum": "c0bc14994e8f9cb16f9602ec0dbadaa57cb919f5",
-  "_spec": "usb",
-  "_where": "C:\\Users\\marcj\\tree\\projects\\EclipseEffects\\eeApp",
   "bugs": {
     "url": "https://github.com/marthamc/usb-sendNull/issues"
   },
