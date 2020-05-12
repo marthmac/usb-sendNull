@@ -67,7 +67,7 @@
   "name": "usb",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tessel/node-usb.git"
+    "url": "git+https://github.com/marthmac/usb-sendNull.git"
   },
   "resolutions": {
     "**/nan": "2.13.2"
